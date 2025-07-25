@@ -1,5 +1,3 @@
 # HTML.creations
 
-[Image](https://github.com/Anna127cd/HTML.creations/issues/1#issue-3261618498)
-
-<img src ="https://github.com/Anna127cd/HTML.creations/issues/1#issue-3261618498" alt= "Image" width = "400" />
+<img src="https://github.com/user-attachments/assets/3385f4a1-fff9-45b1-9439-36b71ebfa8ab" alt="Img" width="400" />
